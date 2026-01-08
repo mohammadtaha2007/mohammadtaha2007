@@ -2,7 +2,7 @@
 ```javascript
 import {getInfo} from "./.ts"
 
-const information = getInfo("Mohammad-Taha-Batoomi") 
+const information = getInfo("Mohammad-Taha-Rahimi") 
 console.log(information);
 ```
 
@@ -10,8 +10,8 @@ console.log(information);
 
 ``` json
 {
-    "name": "Mohammad Taha Batoomi",
-    "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS , javascript, tailwind, react, typescript (and some other packages). I have been in the front-end world for almost 1\5 year \nAnd I have been dealing with the dear JavaScript language for almost 1 year and 2 month \nI have recently mastered react and am about to start learning Next"
+    "name": "Mohammad Taha Rahimi",
+    "description":"Hi guys. I'm Front End Developer. My skills are HTML, CSS , Javascript, Tailwind, React. I have been in the front-end world for almost 1 year \nAnd I have been dealing with the dear JavaScript language for almost 7 month \nI have recently mastered react and am about to start learning ReactJs"
 }
 ```
 
@@ -48,17 +48,13 @@ console.log(information);
 
 
 <!--
-**hossein-ghanimati/hossein-ghanimati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working As InterShip on Sadra
+- 🌱 I’m currently learning React
+- 💬 Ask me about Fron-End
+- ⚡ Fun fact: Freinds Call me Rahimdinho :)
 
 -->
+
